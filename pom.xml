@@ -12,7 +12,7 @@
 	</properties>
 	
 	<groupId>com.agenarisk</groupId>
-	<artifactId>com.agenarisk.api</artifactId>
+	<artifactId>com.agenarisk.api-bfg</artifactId>
 	<version>0.975-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	
@@ -46,7 +46,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.agenarisk</groupId>
-			<artifactId>com.agenarisk.core</artifactId>
+			<artifactId>com.agenarisk.core-bfg</artifactId>
 			<version>${version.com.agenarisk.core}</version>
 		</dependency>
 		
